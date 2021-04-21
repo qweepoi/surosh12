@@ -1,5 +1,5 @@
 {
-  "لینک": "https://as7.cdn.asset.aparat.com/aparat-video/aa796b0fbb20179b292f3c6812717bf616170652-360p.mp4?wmsAuthSign",
+  "لینک": "https://aspb3.cdn.asset.aparat.com/aparat-video/3abe10190d06021ea552cb06eb7f659216170661-720p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQxZTkyZGQ3NWU5NGJiNjM2NmVkNzliYTNhMTJkYWUyIiwiZXhwIjoxNjE5MDQyNDcxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.PPSc3FRPtyTi6-0cH7z9heb4b1U8ij09yt9gkkCUGMs",
   "باز": "82,842,000",
   "زمان": "23:50",
   "آیا": "باز"
